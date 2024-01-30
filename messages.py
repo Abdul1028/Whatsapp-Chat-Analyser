@@ -1,6 +1,6 @@
 from instabot import Bot
 bot = Bot()
-bot.login(username="abdul_s_h_k2", password="instagram@2003")
+bot.login(username="abdul_s_h_k2", password="")
 
 # ######  upload a picture #######
 # bot.upload_photo("yoda.jpg", caption="biscuit eating baby")
